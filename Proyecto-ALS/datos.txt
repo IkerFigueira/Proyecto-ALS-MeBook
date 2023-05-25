@@ -2,4 +2,4 @@ Apellidos, nombre: Figueira Lopez, Iker
 NIF: 76737442N
 email: ikerfigueiralopez@gmail.com
 Proyecto: Aplicación web para la creación y gestión de libros.
-Repositorio: http://github.com/perico-palotes/super-pry
+Repositorio: https://github.com/IkerFigueira/Proyecto-ALS-MeBook
